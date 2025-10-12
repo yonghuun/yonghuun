@@ -3,9 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yonghuun's%20Github&fontSize=70)
 
 <p align="center">
-  <a href="https://github.com/yonghuun">
-    <img src="http://img.shields.io/badge/-%ED%94%84%EB%A1%9C%ED%ED%95%84%20%EB%B0%A9%EB%AC%B8%EC%9E%90-blue?style=flat-square&logo=github&link=https://github.com/yonghuun"/>
-  </a>
   <a href="mailto:ita010@naver.com">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" />
   </a>
