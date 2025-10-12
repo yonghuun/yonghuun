@@ -2,24 +2,23 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yonghuun's%20Github&fontSize=70)
 
-<p align="center">
-  <a href="mailto:ita010@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" />
-  </a>
-</p>
-
 </div>
 
 ---
 
-### About me
+### 👨‍💻 About me
 - A new backend developer who enjoys learning and applying new skills.
+
+---
+
+### 📧 Email
+- ita010@naver.com
 
 ---
 
 ### 🛠️ Tech Stacks
 
-#### Backend
+#### 💻 Backend
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> 
