@@ -1,12 +1,10 @@
 <div align="center">
-  
-# Yonghun's Github
 
-<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yonghuun's%20Github&fontSize=70)
 
 <p align="center">
   <a href="https://github.com/yonghuun">
-    <img src="http://img.shields.io/badge/-%ED%94%84%EB%A1%9C%ED%95%84%20%EB%B0%A9%EB%AC%B8%EC%9E%90-blue?style=flat-square&logo=github&link=https://github.com/yonghuun"/>
+    <img src="http://img.shields.io/badge/-%ED%94%84%EB%A1%9C%ED%ED%95%84%20%EB%B0%A9%EB%AC%B8%EC%9E%90-blue?style=flat-square&logo=github&link=https://github.com/yonghuun"/>
   </a>
   <a href="mailto:ita010@naver.com">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" />
@@ -17,15 +15,14 @@
 
 ---
 
-### 👨‍💻 About me
-- 새로운 기술을 배우고 적용하는 것을 즐기는 신입 백엔드 개발자입니다.
-- Java와 Spring Boot를 활용하여 웹 애플리케이션을 만드는 경험을 했습니다.
+### About me
+- A new backend developer who enjoys learning and applying new skills.
 
 ---
 
 ### 🛠️ Tech Stacks
 
-#### 💡 Backend
+#### Backend
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> 
@@ -52,10 +49,10 @@
 
 ---
 
-### **📊 GitHub Stats**
+### 📊 GitHub Stats
 <div align="center">
 
-[![yonghuun's GitHub stats](https.github-readme-stats.vercel.app/api?username=yonghuun&show_icons=true&theme=radical)](https://github.com/yonghuun)
+[![yonghuun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonghuun&show_icons=true&theme=radical)](https://github.com/yonghuun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonghuun&layout=compact&theme=radical)](https://github.com/yonghuun)
   
 </div>
