@@ -8,7 +8,7 @@
 Java와 Spring 기반으로 안정적인 서버를 만들고, 문제를 구조화해 끝까지 해결하는 데 집중합니다.  
 학습한 내용을 실제 코드와 운영 가능한 형태로 연결하는 백엔드 개발자를 지향합니다.
 
-[![Email](https://img.shields.io/badge/Email-ita010%40naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ita010@naver.com)
+[![Email](https://img.shields.io/badge/Email-ita010%40naver.com-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:ita010@naver.com)
 
 </div>
 
